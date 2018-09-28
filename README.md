@@ -1,2 +1,0 @@
-# ReactStopWatch
-Created with CodeSandbox
